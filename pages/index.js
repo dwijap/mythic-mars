@@ -17,8 +17,6 @@ export default function Home() {
         <div class="gcse-search"></div>
     
       </main>
-
-      <Footer />
     </div>
   )
 }
