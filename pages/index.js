@@ -12,9 +12,9 @@ export default function Home() {
 
       <main>
         <Header title="MYTHIC MARS" />
-        <p className="description">
-          SEARCH <code>pages/index.js</code>
-        </p>
+           <div class="button">
+      <%= link_to "Search", "/guides/getting_started.html" %>
+    </div>
       </main>
 
       <Footer />
