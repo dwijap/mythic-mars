@@ -20,7 +20,7 @@ export default function Home() {
         <script type="text/javascript">
          algoliasearchNetlify({
          appId: '5SRLHGYB7I',
-         apiKey: '<YOUR_ALGOLIA_SEARCH_API_KEY>',
+         apiKey: '80216ececc68367929a2550b3a2ec52f',
          siteId: 'c75b9e6b-e410-4d43-82f6-3cadd245f2b9',
          branch: 'main',
          selector: 'div#search',
