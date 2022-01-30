@@ -20,7 +20,7 @@ export default function Home() {
         
         <input type="submit" value="go!" />
         </form>
-    <div>
+    </div>
         
     
       </main>
