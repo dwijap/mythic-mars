@@ -19,8 +19,9 @@ export default function Home() {
         <input type="text" name="input_text" value="" maxlength="300" />
         
         <input type="submit" value="go!" />
-    <div>
         </form>
+    <div>
+        
     
       </main>
     </div>
