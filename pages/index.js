@@ -13,8 +13,10 @@ export default function Home() {
       <main>
         <Header title="MYTHIC MARS" />
         <form action="/html/tags/html_form_tag_action.cfm" method="get">
-         what would you like to know about?
+         what would you like to know about? 
+        <br />
         <input type="text" name="input_text" value="" maxlength="300" />
+        
         <input type="submit" value="go!" />
         </form>
     
