@@ -8,10 +8,6 @@ export default function Home() {
       <Head>
         <title>mythic mars</title>
         <link rel="icon" href="/favicon.ico" />
-        <style>
-         body{
-            background-image: url("marsbg.jpeg"); }
-        </style>
       </Head>
 
       <main>
