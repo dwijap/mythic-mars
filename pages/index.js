@@ -16,9 +16,14 @@ export default function Home() {
 
       <main>
         <Header title="MYTHIC MARS" />
-    
-        <script async src="https://cse.google.com/cse.js?cx=0e9acb91c969b373f"></script>
-        <div class="gcse-search"></div>
+        <form action="/html/tags/html_form_tag_action.cfm" method="get">
+         First name:
+        <input type="text" name="first_name" value="" maxlength="100" />
+        <br />
+         Last name:
+        <input type="text" name="last_name" value="" maxlength="100" />
+        <input type="submit" value="Submit" />
+        </form>
     
       </main>
     </div>
