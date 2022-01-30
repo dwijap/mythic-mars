@@ -13,12 +13,9 @@ export default function Home() {
       <main>
         <Header title="MYTHIC MARS" />
         <form action="/html/tags/html_form_tag_action.cfm" method="get">
-         First name:
-        <input type="text" name="first_name" value="" maxlength="100" />
-        <br />
-         Last name:
-        <input type="text" name="last_name" value="" maxlength="100" />
-        <input type="submit" value="Submit" />
+         what would you like to know about?
+        <input type="text" name="input_text" value="" maxlength="300" />
+        <input type="submit" value="go!" />
         </form>
     
       </main>
